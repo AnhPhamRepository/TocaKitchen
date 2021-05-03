@@ -1,0 +1,217 @@
+{
+  "percent_show_ins": 30,
+  "ads_type": "",
+  "fan": {
+    "ins1": "",
+    "ins2": "",
+    "ins3": "",
+    "ins4": "",
+    "ins5": "",
+    "banner1": "",
+    "banner2": "",
+    "banner3": "",
+    "banner4": "",
+    "banner5": "",
+    "banner6": "",
+    "banner7": "",
+    "banner8": "",
+    "banner9": "",
+    "banner10": ""
+  },
+  "ane":{
+    "ins1":"53cbbc27-0111-4978-a3b7-14d500f40b1d",
+    "banner1": "0e5e3d29-6d3d-46aa-b492-70ad52927a8b"
+  },
+  "unt":{
+    "id": "3943909",
+    "ins1": "video",
+    "banner1": "banner"
+  },
+  "aln": "",
+  "is_force_aln": true,
+  "tou": "",
+  "characters": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Protag",
+      "info": "Protag is the main character, playing a leading role in the story of Hello Neighbor. In segment 1, he is a young man. Proving that his neighbor had locked something in the cellar, he decided to follow.That opened up somewhat more creepy secrets. Specifically, Protag saw many cells that were mimicking real-world simulations. At this point, the neighbor appeared, chased and locked Protag in the basementSegment 2 revolves around Protag escaping from the basement and trying to escape from a neighbor's current fortified home. After their escape, the game allows players to see a rather deadly scene before the characters return to their homes.Segment 3 is where the Protag is now an adult. He returned to his old house. By the time Protag wakes up in the house, he finds a house across from the neighbor's name. At this point, players will move to start the game.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_neighbor.jpg",
+      "name": "neighbor",
+      "info": "Neighbors are neighbors who once had a happy family, but in the end they all died. Grief-stricken, he began to kidnap people to try to fill up the mental trauma.One day, Protag was playing in the field and found Neighbor locking something up in the basement. Curious, he began an investigation and was eventually locked up. Protag tries to escape from the neighbor's house and basement.He tried to live according to what he learned. Neighbors, angry with the protag, attempted to kidnap him multiple times to prevent him from telling anyone what he saw. In the end, he reported to the police about the neighbor's name. He was evicted and the house was destroyed.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons1.jpg",
+      "name": "Bear Trap",
+      "desc": "Bear traps are placed in areas that the Player visits frequently, with the intent of making it easier for the Neighbor to catch them. In the Pre-Alpha, the Neighbor also threw bear traps while chasing the player. If the player walks into the trap (or interacts with it, prior to Alpha 2), they will be caught and will need to repeatedly press the space bar to escape. If the Neighbor is trapped, he will grab his leg and attempt to pull it out of the jaws of the trap, succeeding after a few attempts. When a trap is triggered, the sound of its jaws snapping shut will attract the attention of the Neighbor, similar to the cameras.\n If the player breaks a window, the Neighbor may place a bear trap next to the window in order to trap the player the instant they jump through it. The player can also pick up bear traps and use them against the Neighbor, but they can only be picked up if the trap is closed. In the Pre-Alpha, there were sometimes three different-sized bear traps hanging on the wall of the garage that served no purpose, but could still trap the player if they walked into them.",
+      "type": "Bear Trap",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons2.jpg",
+      "name": "Fireworks",
+      "desc": "The Fireworks were an item that could be found in Alpha 2. They made their first appearance here. The Fireworks can be thrown at the Neighbor to stun him. They are found in the Bird Room upstairs. They were one of the items that were introduced in Alpha 2. There was a handful of Firework boxes, but unfortunately do not stun the neighbor when ignited, though, in the Fireworks Gameplay trailer, the fireworks did in fact stun the neighbor for a brief period of time when they were ignited. Them not working in the final version may have been from switching Unreal Engine versions or accidentally tampered with, causing them to not work. The fireworks can still be ignited and set off, but have no effect on the player or the neighbor.\nIn Nieghbor_3, you can still find 3 boxes of fireworks, but do not affect you or the neighbor here either. After this, the fireworks went unused for a period of time, but would later return.",
+      "type": "Fireworks",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons3.jpg",
+      "name": "Telephone",
+      "desc": "The Telephone is a Weapon and Tool Item found in your House. If picked up, it causes the Neighbor to walk to the phone by his front door. It should be used to distract the Neighbor, most likely so you can get in through the Back Door.",
+      "type": "Telephone",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons4.jpg",
+      "name": "Rifle",
+      "desc": "The Rifle is a key item in Hello Neighbor that first appeared in Alpha 1.\nThe rifle is a toy gun with a gray muzzle and brown stock, which has the words Bang! Bang! etched onto it. The bullets it shoots are yellow cone-shaped pellets, which are about the size of apples and presumably made out of styrofoam.",
+      "type": "Rifle",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons5.jpg",
+      "name": "Base Balls",
+      "desc": "A baseball is a ball used in the sport of the same name, baseball. The ball features a rubber or cork center and covered in the words of the Official Baseball Rules and are used in the final boss fight.",
+      "type": "Base Balls",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://github.com/AnhPham-Repository/HelloNeighbor/blob/main/weapons6.jpg",
+      "name": "Bucket",
+      "desc": "Buckets are items in Hello Neighbor that the Neighbor sets up as traps.\n Buckets were blue and plastic with a yellow handle (with their design changing slightly in Alpha 2) until Beta 3, when they were turned into a metallic silver.",
+      "type": "Bucket",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    }
+  ],
+  "maps": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map3.jpg",
+      "name": "Windows? More like win-NOs",
+      "desc": "If you can't find an entrance, or a distraction, make your own, right? Exactly.\n If you need to make a quick escape - or a daring entrance - you can take out a window and jump straight through. Hold the item button when looking at small items, and you'll be able to pick them up. A second tap will throw them, smashing any windows in the way.\n You'll also notice the neighbour himself like to just, erm, stroll through windows sometimes. It's quicker, I suppose?"
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
+      "name": "Perfect stealth?",
+      "desc": "Of course, the best way to make it through is with perfect stealth, in every sense of the word. It's possible, just difficult.\n You'll need to stay behind the neighbour, if you ever need to pass him by, and tiptoe your way around the dungeon-like building to make sure you don't get caught.\n But also, in your early tries, don't be too afraid to just run in, find a method of progression, and then using what you've learnt on your next time through. It is basically a roguelike, after all.\n You can use his cupboards and wardrobes to hide away in if he's onto you, but they're not perfect…"
+    }
+  ],
+  "guides": [
+    {
+      "title": "Nosy neighbours",
+      "content": "So the aim of the game here is to get into your neighbour's house, and find his secrets. And, oh, there are secrets. He's hiding away a few fantastical things in the depths of his abode, and it's up to you to seek them out. \n Getting in there won't be easy though, as the neighbour is watching. If he sees you, he'll throw things at you and seek you down.\nLuckily you can walk slowly and use the walls and corners of the house to hide and make progress unaware.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map1.jpg"
+    },
+	{
+      "title": "Operation distraction",
+      "content": "So how do we get in without him noticing? Well, the easiest way is to cause a distraction. On the left side of his house you'll be able to find an electrical switch.\nYou know where this is going. Flipping the switch will trip the electrics in the house, causing the neighbour to start looking at what's going on.\nThis will cause him to open one of the doors in his house, allowing you to make entry, if you can do it undercover.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map2.jpg"
+    },
+	{
+      "title": "Act 1 | Walkthrough",
+      "content": "In Act 1, your main objective is to obtain the red key to open the door to the mysterious location./n After regaining control over the main protagonist, go towards the ball. After a short cutscene, you are caught by the neighbor (unavoidable)./n Now, you find yourself opposite your neighbor's house. First, go inside your own house - it is right behind you.\n Pick up something to smash a window with (e.g. the TV set) and two cardboard boxes \n Now, go towards the rack visible in the screenshot above.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.jpg"
+    },
+	{
+      "title": "Act 2 | Walkthrough",
+      "content": "In Act 2, your objective is to get out of the neighbor's house./n After regaining control over your character, approach the door and peek through the keyhole. Keep doing it until you see a drawn character and the door opens.\n After leaving the room, go left towards the ventilation shaft. Take the grid and enter the shaft.\n After leaving the shaft, go rightwards. Use the ladder to go up.\n Now, you are in the neighbor's backyard. There are some boxes lying around - take four of them.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.jpg"
+    },
+	{
+      "title": "Act 3 | Walkthrough",
+      "content": "Act 3 is the last chapter in Hello Neighbor. During this act, you get to explore the neighbor's house and fight the final battle.\n You begin this act in the apartment. Wait until you receive the letter. After reading it and watching the cutscene you will find yourself in a new location.\n Take the key from the car's trunk and enter the green house. After another cutscene finishes, pick up the phone. After watching the next cutscene you will regain full control over your character.\n Firstly, enter the neighbor's house through the front door and go to the right along the corridor until you reach the stairs visible above. Go upstairs.\n Jump onto the lamp visible above.\n And now, enter the room presented above.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.jpg"
+    },
+	{
+      "title": "Finale, Ending | Walkthrough",
+      "content": "After a short cutscene, you get to the location visible in the screenshot above. Run towards the construction./n Take four cardboard boxes with you.Now, flip the switch visible above by throwing cardboard boxes at it.Then, go towards the place shown above.Climb the furniture to reach the toaster.Jump inside, and it will shoot you upwards. Go towards the green shelf.Use the switch shown above.",
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/ActImage.jpg"
+    }
+  ]
+}
