@@ -30,22 +30,11 @@
   "aln": "",
   "is_force_aln": true,
   "tou": "",
-  "characters": [
+  "Introduce": [
     {
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
-      "name": "Protag",
-      "info": "Protag is the main character, playing a leading role in the story of Hello Neighbor. In segment 1, he is a young man. Proving that his neighbor had locked something in the cellar, he decided to follow.That opened up somewhat more creepy secrets. Specifically, Protag saw many cells that were mimicking real-world simulations. At this point, the neighbor appeared, chased and locked Protag in the basementSegment 2 revolves around Protag escaping from the basement and trying to escape from a neighbor's current fortified home. After their escape, the game allows players to see a rather deadly scene before the characters return to their homes.Segment 3 is where the Protag is now an adult. He returned to his old house. By the time Protag wakes up in the house, he finds a house across from the neighbor's name. At this point, players will move to start the game.",
-      "level": [
-        ""
-      ],
-      "levelName": [
-        "Ability"
-      ]
-    },
-	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_neighbor.jpg",
-      "name": "neighbor",
-      "info": "Neighbors are neighbors who once had a happy family, but in the end they all died. Grief-stricken, he began to kidnap people to try to fill up the mental trauma.One day, Protag was playing in the field and found Neighbor locking something up in the basement. Curious, he began an investigation and was eventually locked up. Protag tries to escape from the neighbor's house and basement.He tried to live according to what he learned. Neighbors, angry with the protag, attempted to kidnap him multiple times to prevent him from telling anyone what he saw. In the end, he reported to the police about the neighbor's name. He was evicted and the house was destroyed.",
+      "name": "Introduce",
+      "info": "Toca Kitchen 2 comes from the award-winning Swedish studio Toca Boca (the name means “touch mouth” in slightly ungrammatical Spanish). Though designed for children aged 3 to 6, the appeal of this app is broad and it’s quite possible for older children – and, ahem, some fathers – to enjoy Toca Kitchen 2 as well. Toca Boca describes this app as a “digital toy”, and so the emphasis is on free play rather than achieving game objectives. This means that there is no scoring, no winning or losing, and no game levels to work through. \n Instead, players prepare meals for three hungry guests – a young girl in a punk t-shirt, a man with a rather nicely groomed moustache and a fuzzy haired monster wearing a green necktie. As you’d expect in an app designed for iPads and iPhones,the game is controlled completely by touch screen. At the left of the screen you can access a fully stocked pantry containing fruit and vegetables (including one very odd-looking blue fruit that resembles Haley’s Comet), bread, fish, and meat. A vegetarian option is also available for families that way inclined (such as ours). Flick to the bottom of the screen and all your seasonings and condiments pop up. Pick up your virtual knife to slice and dice your ingredients. Flick to the right to open a menu for different cooking methods including pan-frying, deep-frying, roasting and a blender. Finally, plate up your dish and wait to see your guest’s reaction at your latest culinary creation.",
       "level": [
         ""
       ],
