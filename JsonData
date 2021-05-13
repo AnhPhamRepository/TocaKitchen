@@ -45,7 +45,7 @@
   ],
   "weapons": [
     {
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/2.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/2-1.jpg",
       "name": "Part 1",
       "desc": "Similar to Toca Kitchen, kids start by choosing a colorful character to feed. When kids open the fridge to survey its savory delights, characters will sometimes express their interest in different foods. Kids can prepare the food with six different tools, including a juicer, chopping board, pot, frying pan, deep fryer, and an oven. Next, does the dish need salt and pepper, hot sauce, soy sauce, salad dressing, lemon, or that catch-call kids' favorite: ketchup? Finally, it's feeding time!",
       "type": "Part 1",
@@ -64,7 +64,7 @@
       "dan": 100
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/3.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/2.jpg",
       "name": "Part 2",
       "desc": "The three expressive and diverse characters will gulp down kids' culinary creations, then show their delight or disgust based on their own tastes. Just like real people, different characters prefer different foods, prepared in different ways. Kids can experiment with extreme flavors to elicit characters' sneezes, smoky coughs, faints, or the spitting out of food they don't like. Budding chefs might make other choices too -- mixing various ingredients or even feeding characters straight out of the fridge. The palate-pleasing possibilities are endless!",
       "type": "Part 2",
@@ -85,17 +85,17 @@
   ],
   "maps": [
     {
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/4.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/3.jpg",
       "name": "Part 1",
       "desc": "Toca Kitchen 2 succeeds in Toca Boca's aim of encouraging creativity. Kids who make crazy combinations will be rewarded with raucous reactions. What happens if we juice a carrot with a fish together? Aren't we glad we can find out in Toca Kitchen 2 instead of a real kitchen? These animated characters will taste (almost) anything."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/4.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/intruduce.jpg",
       "name": "Part 2",
       "desc": "In both subtle and obvious ways, Toca Kitchen 2 promotes not only creativity but also diversity -- not only of gender or race (or species!), but also of personal taste. Characters will try anything, but they'll also let you know what they didn't like! Toca Kitchen 2 also honors families' choices about food by allowing parents to make only vegetarian food items available in the game."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/4.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/5.jpg",
       "name": "Part 3",
       "desc": "Parents can find this and other tips in the For Parents section, including questions to promote discussion with kids. Some kids might need help discovering the actions that lead to extreme reactions, particularly the sneeze-inducing seasonings. Kids might also need reminders about manners, too ? the characters in Toca Kitchen 2 model poor manners just like their Toca Kitchen predecessors. The big bites and big belches that make us adults groan, however, will have kids giggling and going back to the cutting board."
     },
@@ -109,7 +109,7 @@
     {
       "title": "Guide Best For",
       "content": "Toca Kitchen 2 is best for introducing kids to cooking! With quick results, no mess, and no risk, Toca Kitchen 2 is a safe and silly first kitchen for kids. While you cook at home, encourage kids to play along, sharing the steps together. How do the colors change as you boil or bake? Do you need to blow on the food before eating it? Find out together!",
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/4.jpg"
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/TocaKitchen/main/6.jpg"
     }
   ]
 }
